@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="get_data">Get data!</string>
+  <string name="username">Password</string>
+  <string name="password">Username</string>
+  <string name="app_name">BasicAuth Demo</string>
+  <string name="base_url">http://192.168.1.7:8080/</string>
+</resources>
